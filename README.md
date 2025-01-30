@@ -1,0 +1,14 @@
+# missi_phone_cn-user 14 UKQ1.230804.001 V816.0.14.0.UMRCNXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: marble
+- flavor: missi_phone_cn-user
+- release: 14
+- id: UKQ1.230804.001
+- incremental: V816.0.14.0.UMRCNXM
+- tags: release-keys
+- fingerprint: Xiaomi/marble/marble:12/SKQ1.230401.001/V816.0.14.0.UMRCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn-user-14-UKQ1.230804.001-V816.0.14.0.UMRCNXM-release-keys
+- repo: redmi_marble_dump
